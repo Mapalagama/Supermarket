@@ -7,9 +7,6 @@
 
 Supermarket is a simple back-end API for a e-commerce website.
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
 
 ## Features
 
@@ -21,6 +18,8 @@ Supermarket is a simple back-end API for a e-commerce website.
 
 
 ## How to run
+
+https://github.com/Mapalagama/Supermarket.git
 
 
 -Step 1     -Go to the github link that provided.
@@ -39,5 +38,4 @@ This simple Back-End project uses,
 - Java(Spring-Boot)
 - MySQL
 
-And  [public repository][dill]
- on GitHub.
+
