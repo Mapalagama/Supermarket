@@ -35,7 +35,16 @@ And There's a Postman file for testing purposes.
 
 This simple Back-End project uses,
 
+
+
 - Java(Spring-Boot)
 - MySQL
+- 
+### If you were to spend more time on this task, what would you change and what other key features would you add? 
+
+-Add JWT token to authentication.
+-Add method to veiw cart
+-Admin approvel process
+
 
 
